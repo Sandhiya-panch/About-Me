@@ -1,15 +1,18 @@
-🌐About Me - Sandhiya Panchavarnam 
- 
-🚀 Data enthusiast with over 9 years of hands-on experience in Data Analysis.
- 
-🎓 Currently pursuing a Post-Graduate degree in Business Insights and Analytics (Graduating by April 2024).
- 
-💻 Proficient in SQL for efficient data querying and manipulation.
+![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
+<h1 align="center">Hi, I'm Sandhiya</h1>
+<h3 align="center">A passionate Data Analyst</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-🐍 Experienced in Python for data analysis, scripting, and automation.
+- 🌱 I’m currently learning **React Native**
 
-🔍 Skilled in utilizing PowerBI for insightful data visualization and reporting.
+- 💬 Ask me about **SQL , Python , PowerBI , Tableau**
 
-🤝 Open to collaboration on projects that involve data analysis, Python, SQL, or PowerBI.
+- 📫 Reach me at **sandhiya.panch@gmail.com**
 
-📚 Passionate about staying updated with the latest trends in data analysis and analytics.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandhiyapanchavarnam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandhiyapanchavarnam/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
